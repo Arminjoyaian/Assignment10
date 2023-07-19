@@ -14,3 +14,7 @@ T3
 T4
 
 ![3](https://github.com/Arminjoyaian/Assignment10/assets/137637877/c34d1267-10f2-4fb2-848f-5a7e9ba3acab)
+
+T5
+
+![111](https://github.com/Arminjoyaian/Assignment10/assets/137637877/6bf1be39-8913-44c6-af1e-de4873eea11f)
